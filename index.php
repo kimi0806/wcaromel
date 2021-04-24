@@ -2,10 +2,6 @@
 <head>
 </head>
 <body>
-<?php
-
-echo "This is a test Page.";
-
-?>
+<a>test page</a>
 </body>
 </html>
