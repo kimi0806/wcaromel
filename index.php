@@ -1,7 +1,12 @@
+<!DOCTYPE html>
 <html>
 <head>
+<title>Test Page</title>
 </head>
 <body>
-<a>test page</a>
+
+<h1>My First Heading</h1>
+<p>My first paragraph.</p>
+
 </body>
 </html>
