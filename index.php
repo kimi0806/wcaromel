@@ -6,7 +6,7 @@
 <body>
 
 <h1>My First Heading</h1>
-<p>I will be checking this in 15minutes.</p>
+<p>Checking manual deploymentif it works</p>
 
 </body>
 </html>
