@@ -6,7 +6,7 @@
 <body>
 
 <h1>My First Heading</h1>
-<p>Let me check auto deployment if it works now</p>
+<p>it seems the auto-deployment from the panel  is now working fine.</p>
 
 </body>
 </html>
