@@ -1,3 +1,3 @@
 <?php
- echo "website is working perfectly. Update coming soon. Watch out!"
+ echo "website is working perfectly. \n Update coming soon. \n Watch out!"
 ?>
